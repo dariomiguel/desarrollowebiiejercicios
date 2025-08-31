@@ -1,5 +1,7 @@
 <?php
 
+echo "<h1> Ejercicio 1 </h1>";
+
 /*
 Cree una función llamada Semaforo, que recibe por parametro un cólor cómo texto (“rojo”
 “amarillo”,”verde”). Dicha función devolverá el estado que corresponde: “frene”, “precaución”,
